@@ -57,8 +57,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Agency: Digital Marketing Specialists Australia",
+        "meta_descr": "Agency is Australia's #1 digital marketing service, specialising in SEO and Google Ads. Call us today for a free quote.",
         "header_custom": "<META NAME=\"ROBOTS\" CONTENT=\"NOINDEX, NOFOLLOW\">",
         "footer_custom": "",
         "html_before": ""
